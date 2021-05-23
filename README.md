@@ -1,6 +1,6 @@
 # NER_competition
 
-標記類型有 : 
+標記類型有 :   
 名字（name）  
 地點（location）  
 時間（time）  
