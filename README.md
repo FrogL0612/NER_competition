@@ -1,24 +1,24 @@
 # NER_competition
 
 標記類型有 : 
-名字（name）
-地點（location）
-時間（time）
-聯絡方式（contact）
-編號（id）
-職業（profession）
-個人生物標誌（biomarker）
-家庭成員（family）
-有名的臨床事件（clinical_event）
-特殊專業或技能（special_skills）
-獨家或聞名的治療方法（unique_treatment）
-帳號（account）
-所屬團體（organization）
-就學經歷或學歷（education）
-金額（money）
-所屬品的特殊標誌（belonging_mark）
-報告數值（med_exam）
-其他（others）
+    名字（name）
+    地點（location）
+    時間（time）
+    聯絡方式（contact）
+    編號（id）
+    職業（profession）
+    個人生物標誌（biomarker）
+    家庭成員（family）
+    有名的臨床事件（clinical_event）
+    特殊專業或技能（special_skills）
+    獨家或聞名的治療方法（unique_treatment）
+    帳號（account）
+    所屬團體（organization）
+    就學經歷或學歷（education）
+    金額（money）
+    所屬品的特殊標誌（belonging_mark）
+    報告數值（med_exam）
+    其他（others）
 
 模型設計 : 
 1.透過標點符號切割將句子長度控制在50字內
